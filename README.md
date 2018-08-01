@@ -2,7 +2,7 @@
 
 ## Download and run instructions
 
-* Step 1: download the jar from the *Runnable* directory
+* Step 1: download the jar from the *[Runnable](https://github.com/austin-pinon/AutomatedTellerMachine/tree/master/Runnable)* directory
 * Step 2: Navigate to said directory via command line (terminal)
 * Step 3: Run the jar file
   `java -jar ATM.jar`
