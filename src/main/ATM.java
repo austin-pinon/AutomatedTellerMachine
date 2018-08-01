@@ -43,13 +43,15 @@ public class ATM {
   }
 
   public static void initializeCustomers() {
-    Customer customer1 = new Customer("Sample User", Customer.Language.ENGLISH, 1234);
-    Customer customer2 = new Customer("Ruel Loehr", Customer.Language.ENGLISH, 4545);
-    Customer customer3 = new Customer("Conor Eby", Customer.Language.ENGLISH, 7890);
+    Customer customer1 = new Customer("Abraham Lincoln", Customer.Language.ENGLISH, 1865);
+    Customer customer2 = new Customer("James Garfield", Customer.Language.ENGLISH, 1881);
+    Customer customer3 = new Customer("William McKinley", Customer.Language.ENGLISH, 1901);
+    Customer customer4 = new Customer("John Kennedy", Customer.Language.ENGLISH, 1963);
 
     customerTable.add(customer1);
     customerTable.add(customer2);
     customerTable.add(customer3);
+    customerTable.add(customer4);
   }
 
   public static void initializeATM() throws InterruptedException {
