@@ -9,8 +9,9 @@
   
 * Step 4: The program will ask you to enter your debit card so just `press enter`.
 * Step 5: It will ask for your 4 digit PIN so choose from one of the following:
-  * 1234
-  * 4545
-  * 7890
+  * 1865
+  * 1881
+  * 1901
+  * 1963
 * Step 6: Play around with the functionality (data won't persist across logins)
 * Step 7: To kill the program, just use `CTRL + C`.
